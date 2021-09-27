@@ -19,6 +19,6 @@ package multi.project.sample;
 public class SampleClassA {
 
     public static String getString() {
-        return "You are in project A!!!!!!";
+        return "You are in projectA";
     }
 }
